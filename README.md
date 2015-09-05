@@ -1,6 +1,8 @@
 # hairstyle
 iwate's hairstyle repository
 
+## version 4.0
+![v4](images/v4.jpg)
 ## version 3.0
 ![v3](images/v3.jpg)
 ## version 2.0
